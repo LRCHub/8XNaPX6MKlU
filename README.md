@@ -1,0 +1,86 @@
+# Mary J. Blige – Be Without You
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.18] I wanna be with you, gotta be with you, need to be with you
+[00:09.20] (Oh, oh, oh, oh)
+[00:12.13] I wanna be with you, gotta be with you, need to be with you
+[00:15.87] (Oh, oh, oh, oh)
+[00:18.77] Oooo (oh, oh, oh, oh) oooo
+[00:31.77] 
+[00:30.56] Chemistry was crazy from the get-go
+[00:32.91] Neither one of us knew why
+[00:36.64] We didn't build nothing overnight
+[00:38.92] Cuz a love like this takes some time
+[00:56.92] 
+[00:43.37] People swore it off as a phase
+[00:45.91] Said we can't see that
+[00:47.65] Now from top to bottom
+[00:58.65] 
+[00:49.28] They see that we did that (yes)
+[00:51.33] It's so true that (yes)
+[00:52.99] We've been through it (yes)
+[00:54.65] We got real shit (yes)
+[00:56.36] See baby we been...
+[01:05.86] 
+[00:57.51] Too strong for too long (and I can't be without you baby)
+[01:03.08] And I'll be waiting up until you get home (cuz I can't sleep without you baby)
+[01:09.57] Anybody who's ever loved, ya know just what I feel
+[01:13.89] Too hard to fake it, nothing can replace it
+[01:17.11] Call the radio if you just can't be without your baby
+[01:43.61] 
+[01:23.50] I got a question for ya'
+[01:25.82] See I already know the answer
+[01:28.39] But still I wanna ask you
+[01:40.89] 
+[01:30.26] Would you lie? (no)
+[01:31.42] Make me cry? (no)
+[01:33.13] Do somethin' behind my back and then try to cover it up?
+[01:36.75] Well, neither would I, baby
+[01:50.25] 
+[01:40.90] My love is only your love (yes)
+[01:43.91] I'll be faithful (yes)
+[01:45.64] I'm for real (yes)
+[01:47.10] And with us you'll always know the deal
+[01:49.64] We've been
+[01:54.64] 
+[01:50.22] Too strong for too long (and I can't be without you baby)
+[01:55.47] And I'll be waiting up until you get home (cuz I can't sleep without you baby)
+[02:01.91] Anybody who's ever loved, ya know just what I feel
+[02:06.13] Too hard to fake it, nothing can replace it
+[02:09.42] Call the radio if you just can't be without your baby
+[02:35.92] 
+[02:16.13] See this is real talk
+[02:18.21] I'm always stay (no matter what)
+[02:22.44] Good or bad (thick and thin)
+[02:24.08] Right or wrong (all day everyday)
+[02:40.58] 
+[02:28.60] Now if you're down on love or don't believe
+[02:32.08] This ain't for you (no, this ain't for you)
+[02:35.18] And if you got it deep in your heart
+[02:37.35] And deep down you know that it's true (come on, come on, come on)
+[03:09.85] 
+[02:41.44] Well, let me see you put your hands up (hands up)
+[02:44.19] Fellas tell your lady she's the one (Fellas tell your lady she's the one, oh)
+[02:48.44] Put your hands up (hands up)
+[02:50.61] Ladies let him know he's got your love
+[03:09.61] 
+[02:52.89] Look him right in his eyes and tell him
+[02:54.75] We've been
+[02:59.75] 
+[02:55.62] Too strong for too long (and I can't be without you baby)
+[03:00.52] And I'll be waiting up until you get home (cuz I can't sleep without you baby)
+[03:07.44] Anybody who's ever loved, ya' know just what I feel
+[03:11.78] Too hard to fake it, nothing can replace it
+[03:14.94] Call the radio if you just can't be without your baby
+[03:41.44] 
+[03:20.38] Heeeeeeeeeeeey, Ohhhhhhhhhhhhh
+[03:33.74] Heeeeeeeeeeeey, Ohhhhhhhhhhhhh
+[03:48.74] 
+[03:35.14] I wanna be with you, gotta be with you, need to be with you
+[03:41.39] I wanna be with you, gotta be with you, need to be with you
+[03:47.49] I wanna be with you, gotta be with you, need to be with you
+[03:54.65] I wanna be with you, gotta be with you, need to be with you
+[04:00.84] I wanna be with you, gotta be with you, need to be with you
+```
