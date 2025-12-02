@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Be Without You",
+  "base_artist": "Mary J. Blige",
+  "createdAt": "2025-12-02T09:14:07.576921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where Would I Be Without You",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/01_Where_Would_I_Be_Without_You_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "can’t bear to be without you",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/02_can’t_bear_to_be_without_you_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't Be Without You",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/03_I_Can't_Be_Without_You_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be Without You - Kendu Mix",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/04_Be_Without_You_-_Kendu_Mix_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be Without You",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/05_Be_Without_You_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Without You (Kendu Mix)",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/06_Be_Without_You_(Kendu_Mix)_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be Without You (Moto Blanco Vocal Mix)",
+      "artist": "Mary J. Blige",
+      "has_synced": false,
+      "path": "select/07_Be_Without_You_(Moto_Blanco_Vocal_Mix)_Mary_J._Blige.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Could Never Be Without You",
+      "artist": "Enuff Z'Nuff",
+      "has_synced": true,
+      "path": "select/08_I_Could_Never_Be_Without_You_Enuff_Z'Nuff.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be Without You",
+      "artist": "A L O O F feat. Shenetagins & Lastnght Shy",
+      "has_synced": false,
+      "path": "select/09_Be_Without_You_A_L_O_O_F_feat._Shenetagins_&_Lastnght_Shy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To Be Without You (feat. Ira Wolf & Robby Hecht)",
+      "artist": "Ron Pope",
+      "has_synced": true,
+      "path": "select/10_To_Be_Without_You_(feat._Ira_Wolf_&_Robby_Hecht)_Ron_Pope.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Be Without You",
+      "artist": "Ron Pope",
+      "has_synced": true,
+      "path": "select/11_To_Be_Without_You_Ron_Pope.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To Be Without You",
+      "artist": "Ryan Adams",
+      "has_synced": true,
+      "path": "select/12_To_Be_Without_You_Ryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be Without You",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/13_Be_Without_You_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be Without You (Kendu Mix)",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/14_Be_Without_You_(Kendu_Mix)_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Where Would I Be Without You",
+      "artist": "The Osmonds",
+      "has_synced": false,
+      "path": "select/15_Where_Would_I_Be_Without_You_The_Osmonds.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Be Without You",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/16_Be_Without_You_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Without You",
+      "artist": "Mary J. Blige",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Without_You_Mary_J._Blige.txt"
+    }
+  ]
+}
